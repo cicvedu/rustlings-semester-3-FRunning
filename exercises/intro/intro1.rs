@@ -1,6 +1,6 @@
 // intro1.rs
 //
-// About this `I AM NOT DONE` thing:
+
 // We sometimes encourage you to keep trying things on a given exercise, even
 // after you already figured it out. If you got everything working and feel
 // ready for the next exercise, remove the `I AM NOT DONE` comment below.
@@ -36,5 +36,5 @@ fn main() {
     println!(
         "If you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
     );
-    println!("up, and then run `rustlings lsp` before continuing.")
+    println!("up, and then run `rustlings lsp` before continuing.");
 }
